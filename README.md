@@ -4,4 +4,4 @@ Giving a user acces to more high power PWM channels is the main goal of this pro
 
 ## Hardware Revision 00
 
-[![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)
+![16CH_PWM_POWER_00](https://raw.githubusercontent.com/phyx-be/16CH_PWM_POWER/master/16CH_PWM_POWER_00/16Ch_PWM_POWER_00_PHOTO.PNG)
